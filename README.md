@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/keggin-CHN"><img src="https://img.shields.io/badge/GitHub-keggin--CHN-181717?style=for-the-badge&logo=github" /></a>
   <img src="https://img.shields.io/badge/Location-Nanjing%2C%20China-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/School-Nanjing%20Forestry%20University-16a34a?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=keggin-CHN&style=for-the-badge&color=6366f1" />
 </p>
 
@@ -22,8 +21,6 @@
 
 - 🎓 Student at **Nanjing Forestry University**
 - 💻 Interested in **automation, practical tools, web development, and useful systems**
-- 🔧 I like turning annoying workflows into things that just work
-- 🧪 Always building, testing, breaking, and fixing
 - 🐛 **Writing bugs~**
 
 ---
