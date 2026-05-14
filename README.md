@@ -11,6 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=keggin-CHN&style=for-the-badge&color=6366f1" />
 </p>
 
+<p align="center">
+  <a href="https://keggin.tech"><b>🌍 Blog: keggin.tech</b></a> &nbsp;&bull;&nbsp;
+  <a href="mailto:zhou239289001@gmail.com"><b>✉️ Email: zhou239289001@gmail.com</b></a>
+</p>
+
 ---
 
 ## 🐱 About Me
@@ -61,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=keggin-CHN&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=keggin-CHN&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,10 +77,3 @@
 - Improving user/admin workflows and product UX
 - Making small systems simpler, cleaner, and more useful
 - Shipping practical tools instead of just ideas
-
----
-
-## 📫 Contact
-
-- Blog: [keggin.tech](https://keggin.tech)
-- Email: [zhou239289001@gmail.com](mailto:zhou239289001@gmail.com)
