@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm keggin 👋</h1>
 
 <p align="center">
-  <b>English</b> | <a href="README_zh.md">中文</a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Student+Developer+from+Nanjing;Building+useful+tools+and+automation;Writing+bugs~" alt="Typing SVG" />
 </p>
 
