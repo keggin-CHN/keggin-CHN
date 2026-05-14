@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keggin-CHN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keggin-CHN&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://stats-psi-two.vercel.app/api?username=keggin-CHN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://stats-psi-two.vercel.app/api/top-langs/?username=keggin-CHN&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -71,9 +71,3 @@
 
 ---
 
-## 🎯 Current Focus
-
-- Building automation that saves real time
-- Improving user/admin workflows and product UX
-- Making small systems simpler, cleaner, and more useful
-- Shipping practical tools instead of just ideas
