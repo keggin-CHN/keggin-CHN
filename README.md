@@ -17,41 +17,11 @@
 
 ---
 
-## 🐱 About Me
+## About Me
 
-- 🎓 Student at **Nanjing Forestry University**
-- 💻 Interested in **automation, practical tools, web development, and useful systems**
-- 🐛 **Writing bugs~**
-
----
-
-## 🌱 Interested in
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⭐ Popular
-- [**leaflow-checkin**](https://github.com/keggin-CHN/leaflow-checkin) — automated multi-account check-in with scheduled runs and notifications
-- [**kiro-auto-register**](https://github.com/keggin-CHN/kiro-auto-register) — automation around Kiro registration and token flow
-- [**njfu_grinding**](https://github.com/keggin-CHN/njfu_grinding) — automation + Android learning helper for NJFU-related workflows
-- [**mcdonalds**](https://github.com/keggin-CHN/mcdonalds) — automated coupon retrieval, claiming, and push flow
-
-### 🧩 More Projects
-- [**jwxt**](https://github.com/keggin-CHN/jwxt) — NJFU academic system / GPA monitoring tooling
-- [**njfu-exam**](https://github.com/keggin-CHN/njfu-exam) — fast automation for NJFU coursework workflows
-- [**fuck_njfu_lib**](https://github.com/keggin-CHN/fuck_njfu_lib) — automated seat reservation project for the NJFU library
-- [**KOA**](https://github.com/keggin-CHN/KOA) — Kepler optimization algorithm in MATLAB + Python
+- Student at **Nanjing Forestry University**
+- Interested in **automation, practical tools, web development, and useful systems**
+- **Writing bugs~**
 
 ---
 
@@ -59,10 +29,6 @@
 
 <p align="center">
   <img height="170" src="https://stats-psi-two.vercel.app/api?username=keggin-CHN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://stats-psi-two.vercel.app/api/top-langs/?username=keggin-CHN&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=keggin-CHN&theme=tokyonight&hide_border=true" />
 </p>
 
